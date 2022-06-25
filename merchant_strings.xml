@@ -1,0 +1,297 @@
+<resources>
+    <string name="app_name">Merchant ShopZen</string>
+    <string name="jargon">Earn extra money by selling your services</string>
+   
+    <string name="introtext1">Sign up now!</string>
+    <string name="introdesc1">Where did you go today? we will be ready to drive anywhere and anytime</string>
+    <string name="introtext2">Trackable</string>
+    <string name="introdesc2">Keep track of your packages location and driver, real-time.</string>
+    <string name="introtext3">Speedy delivery</string>
+    <string name="introdesc3">You can stay productive while we pick up and drop off your package, all within hours!</string>
+
+    <string name="exit">Are you sure you want to exit the application??</string>
+    <string name="yes">YES!</string>
+    <string name="no">NO</string>
+    <string name="submit">Submit</string>
+    <string name="back">back</string>
+
+    <string name="email">Email</string>
+    <string name="verifydesc">We send a verification code to the number</string>
+    <string name="norecieve">I did not receive the code!</string>
+    <string name="resend">Resend Code</string>
+    <string name="confirm">Confirm</string>
+    <string name="privacy">By signing in, you agree to the  <![CDATA[<b><font color=#02AC43>terms and conditions</font></b>]]></string>
+
+    <string name="lupa">Forgot Password?</string>
+    <string name="button_signIn">Login</string>
+    <string name="button_signUp"> Register</string>
+    <string name="button_dontHaveAccount">Dont Have Account? </string>
+    <string name="wrongnumber">Wrong phone number format </string>
+    <string name="phoneemailwrong">wrong phone or password</string>
+    <string name="phonepass">Phone and Password cannot be empty!</string>
+    <string name="phoneempty">Phone cannot be empty!</string>
+    <string name="passempty">Password cannot be empty!</string>
+    <string name="emailempty">Email cannot be empty!</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_birthday">Birthday</string>
+    <string name="hint_password">Password</string>
+
+    <string name="menu_store">Store</string>
+    <string name="menu_menu">Menu</string>
+    <string name="menu_history">History</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_settings">Settings</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="getstarted">Get Started</string>
+
+    <string name="ride_location">Location</string>
+    <string name="ride_destination">Destination</string>
+
+    <string name="ride_note">Notes</string>
+
+    <string name="ride_setPickUp">Set PickUp</string>
+    <string name="ride_setDestination">Set Destination</string>
+    <string name="text_order">Order</string>
+    <string name="waiting_pleaseWait">Please Wait....</string>
+    <string name="text_noInternet">No internet Access</string>
+
+    <string name="notification_cancel">Order has been canceled</string>
+    <string name="notification_start">start to destination</string>
+    <string name="notification_accept">pick up customers</string>
+    <string name="notification_finish">Order has been Finished</string>
+    <string name="waiting_desc">Waiting</string>
+
+    <string name="text_with_bullet">\u2022</string>
+
+    <string-array name="list_maximum">
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+
+    <string-array name="gendertype">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="jobtype">
+        <item>Select Job</item>
+        <item>Ride</item>
+        <item>Car</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="topup">Topup</string>
+    <string name="withdraw">withdraw</string>
+    <string name="detail">Detail</string>
+    <string name="add_item">Add Item</string>
+    <string name="active_item">Active Item</string>
+    <string name="add_item_image">Add Item Image</string>
+    <string name="add_item_detail">Item Detail</string>
+    <string name="save">Save</string>
+
+    <!--activity_addmenu-->
+    <string name="item_name">Item Name</string>
+    <string name="item_desc">Item description</string>
+    <string name="normal_price">Normal Price</string>
+    <string name="promo_price">Promo Price</string>
+
+    <!--activity_changepassword-->
+    <string name="old_pass_hint">Old Password</string>
+    <string name="new_pass_hint">New Password</string>
+
+    <!--activity_chat-->
+    <string name="typing">Typing...</string>
+    <string name="chat_hint">Send Message Here</string>
+
+    <!--activity_creditcard-->
+    <string name="holder_name">Holder Name</string>
+    <string name="card_exp">Exp. date</string>
+    <string name="month_date">MM/YY</string>
+    <string name="card_number_hint">Card Number</string>
+    <string name="cvc_hint">CVC</string>
+
+    <!--activity_editmitra-->
+    <string name="edit_owner">Edit Owner</string>
+    <string name="personal_detail">Personal Detail</string>
+    <string name="country_code">+856</string>
+    <string name="address">Address</string>
+
+    <!--activity_editstore-->
+    <string name="edit_store">Edit Store</string>
+    <string name="store_banner">Add Store Banner</string>
+    <string name="merchant">Merchant</string>
+    <string name="operating_hour">Operating Hour</string>
+    <string name="store_name">Store Name</string>
+    <string name="location">Location</string>
+    <string name="open">Open</string>
+
+    <!--activity_ordervalidasi-->
+    <string name="detail_order">Detail Order</string>
+    <string name="total_price">Total Price</string>
+    <string name="validation_desc">Give this code to the driver for order validation</string>
+
+    <!--activity_picklocation-->
+    <string name="status">Status</string>
+    <string name="add_location">Add Location</string>
+    <string name="search_location">Search Location</string>
+    <string name="add_your_loc">Add your Location</string>
+    <string name="privacy_text">Privacy</string>
+    <string name="register">Register</string>
+    <string name="id_image">Add Id Card Image</string>
+    <string name="merchant_detail">Merchant Detail</string>
+    <string name="add_store_banner">Add Store Banner</string>
+    <string name="terms_condition_register">By registering you have agreed to the terms and conditions that apply</string>
+    <string name="id_type">ID Type</string>
+    <string name="id_card_number">Id Card Number</string>
+    <string name="merchant_type">Merchant type</string>
+    <string name="merchant_category">Merchant Category</string>
+    <string name="process_payment">Process Payment</string>
+
+    <!--activity_topup-->
+    <string name="amount_field">Amount:</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="cc_desc">Topup with Master Card/VISA/JCB/Discover/Diners Club or American Express</string>
+    <string name="bank_transfer">TRANSFER BANK</string>
+    <string name="transferbank_desc">Topup with Manual Bank Transfer</string>
+    <string name="paypal">PAYPAL</string>
+    <string name="paypal_desc">Topup with Paypal</string>
+    <string name="wallet">Wallet</string>
+    <string name="nodata">No data!</string>
+
+    <!--activity_withdraw-->
+    <string name="account_list">Account List</string>
+    <string name="amount_hint">Amount</string>
+    <string name="bank_hint">Bank</string>
+    <string name="holdername_hint">Holder Name</string>
+    <string name="accnumber_hint">Account Number</string>
+
+    <!--activity_addcategory-->
+    <string name="add_categoryitem">Add Category</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="enable_loc_desc">You need to enable location to use this application</string>
+    <string name="download">Download</string>
+
+    <!--fragment_history-->
+    <string name="earnings">Earnings</string>
+    <string name="daily">Daily</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly">Yearly</string>
+
+    <!--fragment_home-->
+    <string name="balance">Balance</string>
+    <string name="store_status">Your current status</string>
+    <string name="store_status_desc">set store open/close status</string>
+
+    <!--fragment_menu-->
+    <string name="item_available">Items Avaliable</string>
+    <string name="promo_items">Promo Items</string>
+    <string name="outstock_items">Items Out of Stock</string>
+    <string name="active_category">Active Category</string>
+    <string name="nonactive_category">NonActive Category</string>
+    <string name="change_password">Change Password</string>
+    <string name="aboutus">About Us</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="logout">Logout</string>
+
+    <!--java_strings-->
+    <string name="empty_itemname_toast">Menu name cant be empty!</string>
+    <string name="empty_itemdesc_toast">Description cant be empty</string>
+    <string name="empty_itemprice_toast">Price cant be empty!</string>
+    <string name="empty_itempromoprice_toast">Promo price cant be empty!</string>
+    <string name="promo_price_desc">promo price cannot be higher than the base price!</string>
+    <string name="empty_itemimage_toast">Image cant be empty!</string>
+    <string name="error">error</string>
+    <string name="error_connection">error connection!</string>
+    <string name="empty_oldpass_toast">old password cant be empty!</string>
+    <string name="empty_newpass_toast">please input your new password!</string>
+    <string name="recording">Recording...</string>
+    <string name="record_instruction">Hold Mic Button to Record</string>
+    <string name="stop_recording">Stop Recording...</string>
+    <string name="send_image">Send Image.......</string>
+    <string name="download_error">download error</string>
+    <string name="delete_message">Delete this message</string>
+    <string name="cancel">Cancel</string>
+    <string name="tap_again">Tap again</string>
+    <string name="camera_deny">camera permission denied</string>
+    <string name="empty_cardnumber_toast">card number cant be empty!</string>
+    <string name="empty_holdername_toast">holder name cant be empty!</string>
+    <string name="empty_exp_toast">exp date cant be empty!</string>
+    <string name="empty_cvc_toast">CVC cant be empty!</string>
+    <string name="topup_success">topup has been successful</string>
+    <string name="error_occur">there is an error!</string>
+    <string name="error_checkagain">error, please check your card data!</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="empty_storename_toast">store name cant be empty!</string>
+    <string name="empty_loc_toast">Location cant be empty!</string>
+    <string name="email_send">email send!</string>
+    <string name="failed_verify">Failed to verify!</string>
+    <string name="wrong_code">wrong code!</string>
+    <string name="exccess_request">Too Many Requests, please try with other phone number!</string>
+    <string name="empty_verifycode_toast">Verification code can not be empty!</string>
+    <string name="delete">Delete</string>
+    <string name="delete_item_confirmation">Are you sure want to delete?</string>
+    <string name="edit_category">Edit Category</string>
+    <string name="catname_input">Please input Category Name!</string>
+    <string name="success">Success!</string>
+    <string name="total_price_w">Total Price (Wallet)</string>
+    <string name="total_price_c">Total Price (Cash)</string>
+    <string name="new_order_status">New Order</string>
+    <string name="delivery_status">Delivery</string>
+    <string name="finish">Finish</string>
+    <string name="call_driver">Call Driver</string>
+    <string name="you_wantto_call">You want to call</string>
+    <string name="call_customer">Call Customer</string>
+    <string name="empty_ownername_toast">Owner nme cant be empty!</string>
+    <string name="empty_address_toats">please enter andress!</string>
+    <string name="empty_idnumber_toast">please enter ID Card number!</string>
+    <string name="empty_idcardtype_toast">please enter ID Card type!</string>
+    <string name="upload_idimage_toast">please upload Image ID Card!</string>
+    <string name="upload_storebanner_toast">please add photo!</string>
+    <string name="wrong_email_format">wrong email format!</string>
+    <string name="select_merchant_type">please slect merchant type!</string>
+    <string name="empty_category_toast">category cant be empty</string>
+    <string name="empty_open_toast">open time cant be empty!</string>
+    <string name="empty_close_toast">close time cant be empty!</string>
+    <string name="correct_phonenumber">Please enter phone correctly</string>
+    <string name="enter_verify_code">Enter your verification code!</string>
+    <string name="high_accuracy">On Location in High Accuracy</string>
+    <string name="check_carddata">please check your card data!</string>
+    <string name="payment_failed">Payment Failed</string>
+    <string name="empty_amount_toast">Amount cant be empty!</string>
+    <string name="notenough_balance">your balance is no enough!</string>
+    <string name="empty_bank_toast">bank cant be empty!</string>
+    <string name="empty_accnumber_toast">account number cant be empty!</string>
+    <string name="withdraw_request_success">Withdrawal requests have been successful, we will send a notification after we have sent funds to your account</string>
+    <string name="topup_request_success">Topup requests have been successful, we will send a notification after we confirm</string>
+    <string name="grant_permission">Please Grant permission</string>
+    <string name="image_saved">Image Saved</string>
+    <string name="ok">ok</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="seen_at">"Seen at "</string>
+    <string name="sent">Sent</string>
+    <string name="undeliver_message">"Not delivered. "</string>
+    <string name="deleted_by">This message is deleted by </string>
+    <string name="copied">Copied!</string>
+    <string name="money_out">Money Out</string>
+    <string name="pending">Pending</string>
+    <string name="canceled">Canceled</string>
+    <string name="money_order">"Order "</string>
+    <string name="money_in">Money In</string>
+    <string name="good_morning">good morning</string>
+    <string name="good_afternoon">good afternoon</string>
+    <string name="good_evening">good evening</string>
+    <string name="wait">wait..</string>
+
+
+</resources>
